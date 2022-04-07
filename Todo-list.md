@@ -42,7 +42,7 @@
 - ~~『夺宝』小行动~~
 - ~~这本小说真厉害~~
 - ~~望舒须筑阶~~
-- 久久望故人
+- ~~久久望故人~~
 - ~~勿言勿笑~~
 - ~~独钓江雪~~
 - ~~哎呀！海盗想长大！~~
@@ -51,7 +51,7 @@
 
 ## 稻妻
 
-- 这本小说... 系列
+- ~~这本小说... 系列~~
   - [这本小说…厉害吗？](https://genshin.honeyhunterworld.com/db/q/q_22010/?lang=CHS)
     - 前置
   - [这本小说…有问题？](https://genshin.honeyhunterworld.com/db/q/q_22013/?lang=CHS)
@@ -67,20 +67,20 @@
     - 前置
   - [万端珊瑚事件簿·结案时刻](https://genshin.honeyhunterworld.com/db/q/q_22019/?lang=CHS)
   - [万端珊瑚事件簿·收尾工作](https://genshin.honeyhunterworld.com/db/q/q_22020/?lang=CHS)
-- 全能美食队 系列
+- ~~全能美食队 系列~~
   - [全能美食队·突破性思维](https://genshin.honeyhunterworld.com/db/q/q_22014/?lang=CHS)
   - [全能美食队·烹饪对决](https://genshin.honeyhunterworld.com/db/q/q_22021/?lang=CHS)
   - [全能美食队·美食小问答](https://genshin.honeyhunterworld.com/db/q/q_22022/?lang=CHS)
   - [全能美食队·厨道的极意](https://genshin.honeyhunterworld.com/db/q/q_22030/?lang=CHS)
-- 家乡之味 系列
+- ~~家乡之味 系列~~
   - 家乡之味
     - 前置
   - [绝对独特的美味](https://genshin.honeyhunterworld.com/db/q/q_22025/?lang=CHS)
-- 必须精进的武艺 系列
+- ~~必须精进的武艺 系列~~
   - [必须精进的武艺](https://genshin.honeyhunterworld.com/db/q/q_22029/?lang=CHS)
     - 前置
   - [永不停歇的修炼](https://genshin.honeyhunterworld.com/db/q/q_22031/?lang=CHS)
-- 稻妻销售员系列
+- ~~稻妻销售员系列~~
   - [稻妻销售员](https://genshin.honeyhunterworld.com/db/q/q_22036/?lang=CHS)
     - 前置
   - [售后服务](https://genshin.honeyhunterworld.com/db/q/q_22037/?lang=CHS)
