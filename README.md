@@ -19,12 +19,12 @@
 ## 数据结构
 
 - 在`DecomposedAchievements.json`中，包含一个列表，每个成就占位一个
-  - `id`为本项目创建的序号 (int)
+  - `ID`为本项目创建的序号 (int)
   - `OrderID`为成就的通用ID (int)
-  - `name`为成就的中文名 (str)
-  - `daily`为成就所依赖的每日委托 (str-list)
+  - `Title`为成就的中文名 (str)
+  - `Daily`为成就所依赖的每日委托 (str-list)
     - 若成就不依赖于任何每日委托则为空列表
-  - `decomposed`为本项目创建的，各阶段的描述 (str-list)
+  - `Decomposed`为本项目创建的，各阶段的描述 (str-list)
 
 ```json
 [
