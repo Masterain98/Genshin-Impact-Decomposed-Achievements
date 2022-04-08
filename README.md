@@ -20,7 +20,7 @@
 
 - 在`DecomposedAchievements.json`中，包含一个列表，每个成就占位一个
   - `ID`为本项目创建的序号 (int)
-  - `OrderID`为成就的通用ID (int)
+  - `AchievementID`为成就的通用ID (int)
   - `Title`为成就的中文名 (str)
   - `Daily`为成就所依赖的每日委托 (str-list)
     - 若成就不依赖于任何每日委托则为空列表
@@ -30,7 +30,7 @@
 [
     {
         "ID": 1,
-        "OrderId": 4030,
+        "AchievementID": 84505,
         "Title": "帝君故事",
         "Daily": ["岩游记"],
         "Decomposed": ["开拓之神","历史之神","炉灶之神","财神"]
